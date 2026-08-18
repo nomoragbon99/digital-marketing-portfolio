@@ -9,10 +9,9 @@ const SITE = {
   email: "nosaomoragbon99@gmail.com",
   location: "Lagos, Nigeria",
   socials: {
-    linkedin: "https://www.linkedin.com/",
-    github: "https://github.com/",
-    youtube: "https://www.youtube.com/",
-    twitter: "https://x.com/"
+    linkedin: "https://www.linkedin.com/in/nosa-omoragbon-a41229272/",
+    youtube: "https://www.youtube.com/@nomoragbon99",
+    twitter: "https://x.com/nomoragbon99"
   }
 };
 
