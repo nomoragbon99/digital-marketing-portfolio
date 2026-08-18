@@ -1,0 +1,10 @@
+# Vercel / build artifacts
+.vercel/
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
