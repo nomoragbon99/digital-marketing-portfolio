@@ -384,15 +384,11 @@ const TOOL_GROUPS = [
 ];
 
 const CERTIFICATIONS = [
-  { year: "2025", title: "SEO Essentials", issuer: "SEMrush" },
-  { year: "2025", title: "Keyword Research Essentials", issuer: "SEMrush" },
-  { year: "2024", title: "Social Media Marketing", issuer: "HubSpot Academy" },
-  { year: "2024", title: "Digital Marketing", issuer: "HubSpot Academy" },
-  { year: "2024", title: "Fundamentals of Digital Marketing", issuer: "Google" },
-  { year: "2024", title: "On-Page SEO Essentials", issuer: "SEMrush" },
-  { year: "2024", title: "Technical SEO & AI Search Essentials", issuer: "SEMrush" },
-  { year: "2024", title: "HTML & CSS", issuer: "TestDome" },
-  { year: "2024", title: "Adobe Certified Professional — Photoshop", issuer: "Adobe" }
+  { year: "2025", title: "Google Digital Marketing & E-commerce Professional Certification", issuer: "Google" },
+  { year: "2025", title: "Webflow Partner and Visual Developer Certification", issuer: "Webflow" },
+  { year: "2024", title: "HubSpot Social Media and Digital Marketing Certification", issuer: "HubSpot Academy" },
+  { year: "2025", title: "SEMrush SEO Certification", issuer: "SEMrush" },
+  { year: "2024", title: "Dev & Design JavaScript Certification", issuer: "Dev & Design" }
 ];
 
 const TESTIMONIALS = [
@@ -404,13 +400,13 @@ const TESTIMONIALS = [
   },
   {
     quote:
-      "Nosa built the marketing and SEO strategy for OrderSounds' launch, driving early engagement, landing our first producers, and mentoring our intern social media manager along the way.",
-    name: "Micheal Adedeji",
-    role: "Project Lead, OrderSounds"
+      "Nosa took over our community growth when we were stuck. He nearly tripled our membership in six months, and engagement across the whole community went up with it.",
+    name: "Joseph Brendan",
+    role: "Co-Founder, Dev and Design"
   },
   {
     quote:
-      "Nosa is a rare technical marketer who can handle strategy, design, and code all at once. He doesn't just map out the plan - he builds and executes it. Highly recommended for any team looking for real growth.",
+      "Nosa led the restructuring of our brand and brought our four websites into one. Traffic has been up consistently since launch, and the whole company finally feels like one brand.",
     name: "Brian Dolan",
     role: "President, DSQ Technology"
   }
